@@ -1,0 +1,18 @@
+.Display {
+    background-color: rgb(48, 46, 46);
+    text-align: right;
+    color: white;
+    padding: 8%;
+}
+
+.current {
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
+.previous {
+    font-weight: bold;
+    font-size: 25px;
+    color: #cec6c6;
+}
